@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "genieai.openai.model": "gpt-4-32k",
+    "genieai.azure.url": "",
+    "genieai.openai.organization": "org-jjk2E8rQY1nrZOg7C0n65uK0"
+}
